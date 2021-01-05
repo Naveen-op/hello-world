@@ -1,0 +1,23 @@
+import os
+import platform
+import pipes
+import _sha1
+import dis
+import pkg_resources
+import turtle
+import _sha256
+import distutils
+import pkgutil
+
+def fucku():
+    print("Hello world")
+
+def bumbaf():
+    print("Hello world")
+
+list=["samuel",'is','a','bitch','and', 'Iam', 'a','very','big','bumb','as','samuel']
+
+if "samuel" in list: #this definetly gonna exceute cuz ur a bitch
+    fucku()
+elif 'Iam' in list:   #Its not gonna execute cuz iam not dumb
+    bumbaf()
